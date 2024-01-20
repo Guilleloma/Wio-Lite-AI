@@ -1,0 +1,2 @@
+This example is an .elf to be loaded to the board via STM32CubeProgrammer.
+Note: If you have problem during the connection, try to push the reset button before click "connect" and release the button one second later click "Connect"
