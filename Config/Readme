@@ -1,4 +1,6 @@
-Notice that in this example we are using an ST-Link V2 from other development board. We have try to connect directly the Wio Lite AI via USB without success.
+Notice that in this example we are using an ST-Link V2 from other development board. 
+
+We have tried to connect directly the Wio Lite AI via USB without success checking with STM32CubeProgrammer
 
 You can charge the TynyUF2 bootloader:
 1.Press 2 buttons on the board at the same time
