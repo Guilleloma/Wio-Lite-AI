@@ -1,0 +1,8 @@
+Notice that in this example we are using an ST-Link V2 from other development board. We have try to connect directly the Wio Lite AI via USB without success.
+
+You can charge the TynyUF2 bootloader:
+1.Press 2 buttons on the board at the same time
+2.Release just the reset button
+3.A new drive will appear in your compute
+
+In theory you can charge UF2 files and change the firmware, but I wasn't able to achieve that
